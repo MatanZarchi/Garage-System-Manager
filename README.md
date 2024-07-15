@@ -21,13 +21,21 @@
 ## ❗Usage
 
 **1) Inserting a new vehicle to garage**
+
 **2) Displaying license number of vehicles by filter**
+
 **3) Change vehicle state**
+
 **4) Inflating air in wheels**
+
 **5) Refueling gas in tank**
+
 **6) Charging battery**
+
 **7) Displaying vehicle data**
+
 **8) Exit**
+
 
 ## *******************************************************************
 
@@ -41,9 +49,11 @@
 
 <img src="https://github.com/user-attachments/assets/64975a6a-6118-4a2d-9acc-71792f88fdd8" alt="image" width="600" height="auto">
 
+<img src="https://github.com/user-attachments/assets/f8343dbe-71b5-4549-9702-bd4683dc8fdf" alt="image" width="600" height="auto">
+
 # Displaying license number of vehicles by filter:
 
-<img src="https://github.com/user-attachments/assets/f8343dbe-71b5-4549-9702-bd4683dc8fdf" alt="image" width="600" height="auto">
+<img src="https://github.com/user-attachments/assets/49d85150-6c29-45b7-836e-b8c9a7475387" alt="image" width="600" height="auto">
 
 # Change vehicle state:
 
@@ -51,7 +61,7 @@
 
 # Inflating air in wheels
 
-<img src="https://github.com/user-attachments/assets/49d85150-6c29-45b7-836e-b8c9a7475387" alt="image" width="600" height="auto">
+
 
 # Refueling gas in tank:
 
