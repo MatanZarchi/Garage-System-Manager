@@ -67,6 +67,10 @@
 
 <img src="https://github.com/user-attachments/assets/ab043e23-58c7-4c1a-aa27-c2afe1e45f75" alt="image" width="600" height="auto">
 
+# Class Diagram
+
+<img src="https://github.com/user-attachments/assets/25a5db67-d207-4020-b449-94381e64caa6" alt="image" width="900" height="auto">
+
 ## *******************************************************************
 
 ## With
