@@ -49,6 +49,8 @@
 
 <img src="https://github.com/user-attachments/assets/64975a6a-6118-4a2d-9acc-71792f88fdd8" alt="image" width="600" height="auto">
 
+# Next detailes:
+
 <img src="https://github.com/user-attachments/assets/f8343dbe-71b5-4549-9702-bd4683dc8fdf" alt="image" width="600" height="auto">
 
 # Displaying license number of vehicles by filter:
