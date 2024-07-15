@@ -59,14 +59,6 @@
 
 <img src="https://github.com/user-attachments/assets/006021c6-800d-418e-9923-81ff9f4a608b" alt="image" width="600" height="auto">
 
-# Inflating air in wheels
-
-
-
-# Refueling gas in tank:
-
-<img src="https://github.com/user-attachments/assets/ab043e23-58c7-4c1a-aa27-c2afe1e45f75" alt="image" width="600" height="auto">
-
 # Charging battery:
 
 <img src="https://github.com/user-attachments/assets/ab043e23-58c7-4c1a-aa27-c2afe1e45f75" alt="image" width="600" height="auto">
