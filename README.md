@@ -76,7 +76,7 @@
 
 ## With
 
-- C# (by Visual Studio)
+- C# .NET Framework (by Visual Studio)
 
 ## Getting Started
 
