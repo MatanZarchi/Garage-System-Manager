@@ -85,6 +85,7 @@ To build and run the app locally, follow these steps:
 1. **Clone the repository:** `git clone https://github.com/MatanZarchi/Garage-System-Manager.git`
 2. **Open the project in visual studio/ vscode.**
 3. **Build and run the app.**
+4. **Enjoy!**
 
 ## Acknowledgments
 
